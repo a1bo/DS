@@ -1,9 +1,3 @@
-Here is the project proposal wrapped into the **DataScientest-Studio MLOps** template structure.
-
-This proposal focuses on industrializing the **DeepSeek-OCR** model, a state-of-the-art vision-language model designed for efficient optical character recognition and long-context compression.
-
-***
-
 # Project Proposal: DeepSeek-OCR MLOps
 
 ## 1. Description
