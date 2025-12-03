@@ -54,6 +54,7 @@ The project follows a standard MLOps lifecycle:
 *   **Frontend (Optional)**: Streamlit for a "Drag & Drop" document demo.
 
 ## 6. References
-*   **Paper**: *DeepSeek-OCR: Contexts Optical Compression* (ArXiv:2510.18234) - [Link](https://arxiv.org/abs/2510.18234)
+*   **Paper**: *DeepSeek-OCR: Contexts Optical Compression* (ArXiv:2510.18234) - [ArXiv](https://arxiv.org/abs/2510.18234) 
+[Papiers](https://papiers.ai/2510.182340)
 *   **Repository**: deepseek-ai/DeepSeek-OCR - [Link](https://github.com/deepseek-ai/DeepSeek-OCR)
 *   **Hugging Face**: [deepseek-ai/DeepSeek-OCR](https://huggingface.co/deepseek-ai/DeepSeek-OCR)
